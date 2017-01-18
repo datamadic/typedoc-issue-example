@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "declaration": true,
+        "outDir": "out",
+        "strictNullChecks": true,
+        "sourceMap": true
+    },
+    "files": [
+        "src/main.ts"
+    ]
+}
+
+
